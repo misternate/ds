@@ -1,0 +1,12 @@
+{
+  "name": "ds-tokens-build",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "devDependencies": {
+    "style-dictionary": "^4.0.0",
+    "@tokens-studio/sd-transforms": "^1.2.0"
+  }
+}
